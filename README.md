@@ -24,9 +24,9 @@
 sudo apt install python3-gi gir1.2-gtk-3.0
 ```
 
-在项目目录中安装到当前用户：
-
 ```bash
+git clone https://github.com/motov3189/startup-manager.git
+cd startup-manager
 /usr/bin/python3 install.py
 ```
 
